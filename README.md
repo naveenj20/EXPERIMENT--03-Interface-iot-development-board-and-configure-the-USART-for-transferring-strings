@@ -118,6 +118,7 @@ int main(void)
   {
     /* USER CODE END WHILE */
      printf("saveetha engineering college\n");
+     printf("scoft\n");
      HAL_Delay(500);
   }
 }
